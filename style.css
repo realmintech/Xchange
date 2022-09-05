@@ -1,9 +1,12 @@
 .contain1{
     margin: auto; 
-    max-width:500px;
+    max-width:600px;
     margin-top: 10%;
     background-color: wheat;
     border-radius: 20px;
+}
+body{
+    width: 100%;
 }
 h2{
     justify-content: center;
@@ -12,15 +15,17 @@ h2{
     color: navy;
 }
 select{
-    width: 200px; 
+    width: 70%; 
     height:40px;
     margin-bottom: 10px;
     border-radius: 20px;
     font-size: 20px;
     color: navy;
+    display: flex;
+    flex-wrap: wrap;
 }
 input{
-    width: 193px;
+    width: 69%;
     height: 40px;
     border-radius: 20px;
     font-size: 20px;
