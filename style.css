@@ -1,0 +1,47 @@
+.contain1{
+    margin: auto; 
+    max-width:500px;
+    margin-top: 10%;
+    background-color: wheat;
+    border-radius: 20px;
+}
+h2{
+    justify-content: center;
+    font-size: 29px;
+    margin-left: 20px;
+    color: navy;
+}
+select{
+    width: 200px; 
+    height:40px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: navy;
+}
+input{
+    width: 193px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-size: 20px;
+    color: navy;
+}
+.together{
+    display: flex;
+    width: 100%;
+    margin-left: 19px;
+}
+.button{
+    margin-top: 5%;
+    margin-left: 19px;
+}
+.btn{
+    width: 452px;
+    height: 30px;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    background-color: navy;
+    color: whitesmoke;
+    font-size: 25px;
+}
